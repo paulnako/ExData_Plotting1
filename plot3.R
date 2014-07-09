@@ -21,4 +21,7 @@ plot3 <- {plot(power$datetime, power$Sub_metering_1, type = "l", xlab = "",
           legend("topright", legend = c("Sub_metering_1", "Sub_metering_2", 
                                         "Sub_metering_3"),
                  col = c("black", "red", "blue"), lty = c(1, 1, 1))
+<<<<<<< HEAD
 }
+=======
+>>>>>>> 9505b80c79c712394af66c4df41e93c41b2e3803
